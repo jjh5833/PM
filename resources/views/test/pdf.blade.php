@@ -835,6 +835,7 @@ console.log(i);
 </style>
 <table class="tg" id="printArea">
     <thead>
+        test
         <tr>
             <th class="tg-bq2r" colspan="9">(작업내용)&nbsp;&nbsp;&nbsp;점검기록표</th>
         </tr>
