@@ -856,7 +856,7 @@ console.log(i);
             </tr>
             <tr class="tg-a123">
                 <td class="tg-a123" colspan="4">점검자:&nbsp;&nbsp;&nbsp;(인)&nbsp;&nbsp;</td>
-                <td class="tg-a123" colspan="5"><span>감독자:&nbsp;&nbsp;&nbsp;<img src="../img/transparent.png" width=50; hight=100; class="ta-ssaw" style=position:absolute;left:657px;top:228px;>(인)</span></td>
+                <td class="tg-a123" colspan="5"><span>감독자:&nbsp;&nbsp;&nbsp;<img src="../img/transparent.png" width=55; hight=100; class="ta-ssaw" style=position:absolute;left:657px;top:228px;>(인)</span></td>
             </tr>
             <tr>
                 <td class="tg-9wq8">설치장소</td>
